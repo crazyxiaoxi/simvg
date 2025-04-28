@@ -73,7 +73,7 @@ model = dict(
         vocab_size=64010,
         freeze_layer=-1,
         vision_embed_proj_interpolate=True,
-        pretrain="pretrain_weights/beit3_base_patch16_224.zip",
+        pretrain="pretrain_weights/beit3_base_patch16_224.pth",
     ),
     lan_enc=None,
     fusion=None,

@@ -10,3 +10,8 @@ visualize/
 vis_cross/
 Visualizer-main/
 weights/
+data/
+pretrain_weights/
+detectron2/
+detrex/
+demo/
